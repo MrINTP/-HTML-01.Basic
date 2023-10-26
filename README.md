@@ -1,4 +1,4 @@
-#Intoducing
+#INTroducing Peer
 - 이름 : Be 공개(Anonymous)
 - 1인 개발자(Dog Feet Ruler) 연습 중
 - VSC 사용 / OS : 창문 11(Windows 11)
