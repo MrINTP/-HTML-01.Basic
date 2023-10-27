@@ -10,11 +10,4 @@
 - Name : An Onymous
 - Learning programming langueages(HTML is Not a programming language!)
 - Thanks to Visual Student Code, 11 windows
--
-
-- Git 동기화 시작
-  123
-  :
-
-  테스트 테스트 하하하
-  이것도 수정 ??
+- ReadME.md will not be changed, But I'll try to fill contribution graph.
